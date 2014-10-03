@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns = "http://www.w3.org/ns/widgets" xmlns:gap = "http://phonegap.com/ns/
+<name>ExemploMobile</name>
+<description>
+Aplicativo desenvolvido para exemplificar o uso do PhoneGap
+</description>
+<author email="estevamdf@gmail.com" href="http://phonegap.com">
+Criador do projeto
+</author>
+<access origin="*" />
+<preference name="phonegap-version" value="3.1.0" />
+</widget>
